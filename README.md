@@ -25,6 +25,11 @@ Python • Java • JavaScript • PHP • Linux • Docker • Cisco/CCNA • W
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
+- 🔨 Pushed to **APonder-Dev/HexBounties.sk** — _Release v1.0 - HexBounties 🎯_
+- 🔨 Pushed to **APonder-Dev/HexMeteorites.sk** — _Update: HexMeteorites to v0.5
+
+- Fixed `highest solid block` usage to correctly get meteor Y coordinate
+- Corrected che_
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Rename readme.md to README.md_
 - 🔨 Pushed to **APonder-Dev/ECC-VoteLauncher** — _Update README.md
 
