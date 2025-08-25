@@ -75,11 +75,10 @@
 ---
 
 ### ⚡ Fun Facts
-- ♿ Right-leg below-the-knee prosthetic — tech + accessibility geek.  
 - 🎮 Lifelong gamer, especially **Minecraft** & strategy/management sims.  
-- 🦊 Obsessed with foxes (you’ll see them in my branding).  
-- 🌌 Working on **Galaxy Dominion** (Unity RTS game project)
+- 🦊 Obsessed with foxes (you may see them in my branding).  
 
 ---
 
 **Created by [APonder.dev](https://aponder.dev)**
+
