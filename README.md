@@ -31,16 +31,15 @@
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
+- 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
+- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Initial Commit: Mob Mutation Pack v1.0_
+- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Initial Commit: Mob Mutation Pack v1.0_
 - 🔨 Pushed to **APonder-Dev/HexBounties.sk** — _Release v1.0 - HexBounties 🎯_
 - 🔨 Pushed to **APonder-Dev/HexMeteorites.sk** — _Update: HexMeteorites to v0.5
 
 - Fixed `highest solid block` usage to correctly get meteor Y coordinate
-
 - Corrected che_
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Rename readme.md to README.md_
-- 🔨 Pushed to **APonder-Dev/ECC-VoteLauncher** — _Update README.md
-
-Removed information that wasn't uploaded to the code._
 <!--RECENT_ACTIVITY:END-->
 
 ---
@@ -58,7 +57,7 @@ Removed information that wasn't uploaded to the code._
 ### 🔗 Pinned repos
 <!--PINNED:START-->
 - [Mendelian-Inheritance-Simulator](https://github.com/APonder-Dev/Mendelian-Inheritance-Simulator) — A web application that allows users to explore and simulate the inheritance patterns of traits based on Mendelian genetics. Users can predict offspring traits for various characteristics, including blood type, eye color, and height, all through a user-friendly interface with dark mode support. ⭐1
-- [Minecraft-Datapacks](https://github.com/APonder-Dev/Minecraft-Datapacks) —  ⭐0
+- [Minecraft-Datapacks](https://github.com/APonder-Dev/Minecraft-Datapacks) — A collection of Minecraft datapacks developed and maintained by me. ⭐0
 - [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [HexBounties.sk](https://github.com/APonder-Dev/HexBounties.sk) — A powerful and customizable Minecraft bounty system written in Skript – Player & Mob bounties, GUI, tiers, tracking & more! ⭐0
 <!--PINNED:END-->
