@@ -2,25 +2,31 @@
 <h1 align="center">Hey, I'm Anthony — APonder.dev</h1>
 <p align="center">
   <a href="https://aponder.dev">aponder.dev</a> •
-  <a href="https://github.com/APonder-Dev">GitHub</a>
+  <a href="https://github.com/APonder-Dev">GitHub</a> •
+  <a href="https://www.linkedin.com/in/anthony-ponder">LinkedIn</a> •
+  <a href="mailto:anthony@aponder.dev">Email</a>
 </p>
-
 ---
 
 ### 🚀 About
 - Cybersecurity & Networking student @ SWIC  
 - Homelab + game server tinkerer (Minecraft, Ark, Rust, plugins)  
+- Building projects that blend **security, networking, and coding**  
+- Into **automation**, **datapacks/modding**, and **self-hosted infrastructure**   
 
 ---
 
-### 🧰 Tech
-Python • Java • JavaScript • PHP • Linux • Docker • Cisco/CCNA • Wireshark • LUA • C# • C++ • HTML
+### 🧰 Tech & Tools
+**Languages:** Python • Java • JavaScript • PHP • C# • C++ • HTML/CSS • LUA  
+**Networking & Security:** Linux • Wireshark • Cisco IOS/CCNA • Firewalls (iptables/ufw)  
+**DevOps & Infra:** Docker • Git/GitHub • Proxmox/VirtFusion • Ubuntu/AlmaLinux  
+**Other:** Minecraft Plugin Dev (Spigot/Purpur/Fabric) • Game Servers • MySQL/SQLite  
 
 ---
 
-### 📌 Featured
-- **py-gadgets** — unique networking & sec tools  
-
+### 📌 Featured Projects
+- **py-gadgets** — unique networking & security tools  
+- **Minecraft Datapacks** — a growing collection of datapacks 
 ---
 
 ### 📝 Latest activity
@@ -29,6 +35,7 @@ Python • Java • JavaScript • PHP • Linux • Docker • Cisco/CCNA • W
 - 🔨 Pushed to **APonder-Dev/HexMeteorites.sk** — _Update: HexMeteorites to v0.5
 
 - Fixed `highest solid block` usage to correctly get meteor Y coordinate
+
 - Corrected che_
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Rename readme.md to README.md_
 - 🔨 Pushed to **APonder-Dev/ECC-VoteLauncher** — _Update README.md
@@ -55,6 +62,22 @@ Removed information that wasn't uploaded to the code._
 - [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [HexBounties.sk](https://github.com/APonder-Dev/HexBounties.sk) — A powerful and customizable Minecraft bounty system written in Skript – Player & Mob bounties, GUI, tiers, tracking & more! ⭐0
 <!--PINNED:END-->
+
+---
+
+### 🌱 Current Focus
+- Building **NetMon+**, a self-hosted system monitoring dashboard  
+- Expanding **Minecraft plugin/mod projects** (HexMarket, AutoVaultHarvester, Coinflip, etc.)  
+- Experimenting with **print-on-demand + branding (FadedCloud, Wazupbutrcup merch)**  
+- Homelab expansion (VPS hosting, VirtFusion, Pixelmon/Factions servers)  
+
+---
+
+### ⚡ Fun Facts
+- ♿ Right-leg below-the-knee prosthetic — tech + accessibility geek.  
+- 🎮 Lifelong gamer, especially **Minecraft** & strategy/management sims.  
+- 🦊 Obsessed with foxes (you’ll see them in my branding).  
+- 🌌 Working on **Galaxy Dominion** (Unity RTS game project)
 
 ---
 
