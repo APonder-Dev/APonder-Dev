@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/anthony-ponder">LinkedIn</a> •
   <a href="mailto:anthony@aponder.dev">Email</a>
 </p>
+
 ---
 
 ### 🚀 About
@@ -38,6 +39,7 @@
 - 🔨 Pushed to **APonder-Dev/HexMeteorites.sk** — _Update: HexMeteorites to v0.5
 
 - Fixed `highest solid block` usage to correctly get meteor Y coordinate
+
 - Corrected che_
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Rename readme.md to README.md_
 <!--RECENT_ACTIVITY:END-->
