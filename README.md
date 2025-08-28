@@ -32,12 +32,12 @@
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
+- 🔨 Pushed to **APonder-Dev/OSRS-Bank-Presets** — _chore: flatten repo structure (move project files to root)_
 - 🔨 Pushed to **APonder-Dev/OSRS-Bank-Presets** — _feat: initial project setup_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Initial Commit_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Initial Commit_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.2 — RawBlockSmelter Release & Updates_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Merge branch 'main' of https://github.com/APonder-Dev/Minecraft-Datapacks_
-- 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
 <!--RECENT_ACTIVITY:END-->
 
 ---
