@@ -32,6 +32,10 @@
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
+- 🔨 Pushed to **APonder-Dev/windows-batch-utilities** — _feat: add Network Quick Diagnostic + update docs
+
+- Added scripts/net_quickdiag.bat for quick network health checks
+-_
 - 🔨 Pushed to **APonder-Dev/windows-batch-utilities** — _feat: initial project setup with core scripts and documentation
 
 - Added scripts/menu_launcher.bat (main launcher menu_
@@ -39,7 +43,6 @@
 - 🔨 Pushed to **APonder-Dev/OSRS-Bank-Presets** — _feat: initial project setup_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Initial Commit_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Initial Commit_
-- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.2 — RawBlockSmelter Release & Updates_
 <!--RECENT_ACTIVITY:END-->
 
 ---
@@ -57,8 +60,8 @@
 ### 🔗 Pinned repos
 <!--PINNED:START-->
 - [Mendelian-Inheritance-Simulator](https://github.com/APonder-Dev/Mendelian-Inheritance-Simulator) — A web application that allows users to explore and simulate the inheritance patterns of traits based on Mendelian genetics. Users can predict offspring traits for various characteristics, including blood type, eye color, and height, all through a user-friendly interface with dark mode support. ⭐1
-- [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [windows-batch-utilities](https://github.com/APonder-Dev/windows-batch-utilities) —  ⭐0
+- [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [Minecraft-Datapacks](https://github.com/APonder-Dev/Minecraft-Datapacks) — A collection of Minecraft datapacks developed and maintained by me. ⭐0
 <!--PINNED:END-->
 
