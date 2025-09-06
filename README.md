@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://aponder.dev">aponder.dev</a> ·
   <a href="https://github.com/APonder-Dev">GitHub</a> ·
-  <a href="https://www.credly.com/users/aponder.dev">Credly</a> .
+  <a href="https://www.credly.com/users/aponder.dev">Credly</a> ·
   <a href="https://www.linkedin.com/in/anthony-ponder">LinkedIn</a> ·
   <a href="mailto:anthony@aponder.dev">Email</a>
 </p>
@@ -85,4 +85,5 @@
 ---
 
 **Created by [APonder.dev](https://aponder.dev)**
+
 
