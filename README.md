@@ -34,6 +34,9 @@
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
+- 🔨 Pushed to **APonder-Dev/py-gadgets** — _feat: restructure Py-Gadgets into multi-tool package
+
+- Added src/ layout with unified CLI (pygadgets) and individual _
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.5 — HarvestBits Release & Updates_
@@ -42,9 +45,6 @@
 
 - Added scripts/net_quickdiag.bat for quick network health checks
 -_
-- 🔨 Pushed to **APonder-Dev/windows-batch-utilities** — _feat: initial project setup with core scripts and documentation
-
-- Added scripts/menu_launcher.bat (main launcher menu_
 <!--RECENT_ACTIVITY:END-->
 
 ---
@@ -62,9 +62,9 @@
 ### 🔗 Pinned repos
 <!--PINNED:START-->
 - [Mendelian-Inheritance-Simulator](https://github.com/APonder-Dev/Mendelian-Inheritance-Simulator) — A web application that allows users to explore and simulate the inheritance patterns of traits based on Mendelian genetics. Users can predict offspring traits for various characteristics, including blood type, eye color, and height, all through a user-friendly interface with dark mode support. ⭐1
+- [py-gadgets](https://github.com/APonder-Dev/py-gadgets) — A collection of unique, lightweight Python security & networking gadgets. ⭐0
 - [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [Minecraft-Datapacks](https://github.com/APonder-Dev/Minecraft-Datapacks) — A collection of Minecraft datapacks developed and maintained by me. ⭐0
-- [windows-batch-utilities](https://github.com/APonder-Dev/windows-batch-utilities) —  ⭐0
 <!--PINNED:END-->
 
 ---
