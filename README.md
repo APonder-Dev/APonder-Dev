@@ -34,7 +34,14 @@
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
-- (no recent public activity)
+- 🔨 Pushed to **APonder-Dev/Sql-Showcase** — _Initial commit: Added InventorySystem SQL project with schema, seed, queries, and docs_
+- 🔨 Pushed to **APonder-Dev/py-gadgets** — _feat: restructure Py-Gadgets into multi-tool package
+
+- Added src/ layout with unified CLI (pygadgets) and individual _
+- 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
+- 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
+- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.5 — HarvestBits Release & Updates_
+- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.4 — EzChests Release & Updates_
 <!--RECENT_ACTIVITY:END-->
 
 ---
