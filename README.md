@@ -59,9 +59,9 @@
 ### 🔗 Pinned repos
 <!--PINNED:START-->
 - [Mendelian-Inheritance-Simulator](https://github.com/APonder-Dev/Mendelian-Inheritance-Simulator) — A web application that allows users to explore and simulate the inheritance patterns of traits based on Mendelian genetics. Users can predict offspring traits for various characteristics, including blood type, eye color, and height, all through a user-friendly interface with dark mode support. ⭐1
+- [portfolio-projects](https://github.com/APonder-Dev/portfolio-projects) —  ⭐0
 - [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [Sql-Showcase](https://github.com/APonder-Dev/Sql-Showcase) — A collection of SQL projects showcasing database design, seeding, and queries for real-world use cases. ⭐0
-- [py-gadgets](https://github.com/APonder-Dev/py-gadgets) — A collection of unique, lightweight Python security & networking gadgets. ⭐0
 <!--PINNED:END-->
 
 ---
