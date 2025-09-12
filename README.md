@@ -34,14 +34,14 @@
 
 ### 📝 Latest activity
 <!--RECENT_ACTIVITY:START-->
+- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Updated the README.md_
+- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.6 — TrialsFortune Release & Updates_
 - 🔨 Pushed to **APonder-Dev/Sql-Showcase** — _Initial commit: Added InventorySystem SQL project with schema, seed, queries, and docs_
 - 🔨 Pushed to **APonder-Dev/py-gadgets** — _feat: restructure Py-Gadgets into multi-tool package
 
 - Added src/ layout with unified CLI (pygadgets) and individual _
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
 - 🔨 Pushed to **APonder-Dev/APonder-Dev** — _Update README.md_
-- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.5 — HarvestBits Release & Updates_
-- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.4 — EzChests Release & Updates_
 <!--RECENT_ACTIVITY:END-->
 
 ---
@@ -59,9 +59,9 @@
 ### 🔗 Pinned repos
 <!--PINNED:START-->
 - [Mendelian-Inheritance-Simulator](https://github.com/APonder-Dev/Mendelian-Inheritance-Simulator) — A web application that allows users to explore and simulate the inheritance patterns of traits based on Mendelian genetics. Users can predict offspring traits for various characteristics, including blood type, eye color, and height, all through a user-friendly interface with dark mode support. ⭐1
+- [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 - [Minecraft-Datapacks](https://github.com/APonder-Dev/Minecraft-Datapacks) — A collection of Minecraft datapacks developed and maintained by me. ⭐0
 - [portfolio-projects](https://github.com/APonder-Dev/portfolio-projects) —  ⭐0
-- [APonder-Dev](https://github.com/APonder-Dev/APonder-Dev) —  ⭐0
 <!--PINNED:END-->
 
 ---
