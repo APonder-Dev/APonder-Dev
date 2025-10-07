@@ -54,9 +54,6 @@ Hands-on skills in **networking, system administration, and secure coding** — 
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Updated the README.md_
 - 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.6 — TrialsFortune Release & Updates_
 - 🔨 Pushed to **APonder-Dev/Sql-Showcase** — _Initial commit: Added InventorySystem SQL project with schema, seed, queries, and docs_
-- 🔨 Pushed to **APonder-Dev/py-gadgets** — _feat: restructure Py-Gadgets into multi-tool package
-
-- Added src/ layout with unified CLI (pygadgets) and individual _
 <!--RECENT_ACTIVITY:END-->
 
 ---
