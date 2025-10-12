@@ -51,8 +51,6 @@ Hands-on skills in **networking, system administration, and secure coding** — 
 <!--RECENT_ACTIVITY:START-->
 - 🔨 Pushed to **APonder-Dev/portfolio-projects** — _Add files via upload_
 - 🔨 Pushed to **APonder-Dev/portfolio-projects** — _Delete docs/resume.pdf_
-- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _Updated the README.md_
-- 🔨 Pushed to **APonder-Dev/Minecraft-Datapacks** — _v1.0.6 — TrialsFortune Release & Updates_
 <!--RECENT_ACTIVITY:END-->
 
 ---
