@@ -49,8 +49,7 @@ Hands-on skills in **networking, system administration, and secure coding** — 
 
 ### 📝 Latest GitHub Activity
 <!--RECENT_ACTIVITY:START-->
-- 🔨 Pushed to **APonder-Dev/portfolio-projects** — _Add files via upload_
-- 🔨 Pushed to **APonder-Dev/portfolio-projects** — _Delete docs/resume.pdf_
+- (no recent public activity)
 <!--RECENT_ACTIVITY:END-->
 
 ---
