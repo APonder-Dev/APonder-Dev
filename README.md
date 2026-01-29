@@ -53,14 +53,6 @@ Hands-on skills in **networking, system administration, and secure coding** — 
 
 ---
 
-### 📊 Quick Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=APonder-Dev&show_icons=true&hide_title=true&theme=radical" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APonder-Dev&layout=compact&theme=radical" height="140" />
-</p>
-
----
-
 ### 🌱 Current Focus
 - **Minecraft Dev (Plugins & Datapacks):** HexVeinMiner v2 · MagnetPickup · HarvestBits  
 - **Homelab & Hosting:** VirtFusion rollout · VPS tiers · Pterodactyl game hosting  
@@ -74,18 +66,6 @@ Hands-on skills in **networking, system administration, and secure coding** — 
 ---
 
 **Created by APonder.dev**
-
-
-
-
-
-<!--STATS:START-->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=APonder-Dev&show_icons=true&hide_title=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=APonder-Dev&layout=compact" height="140" />
-</p>
-<!--STATS:END-->
-
 
 <!--PINNED:START-->
 - [HexBounties.sk](https://github.com/APonder-Dev/HexBounties.sk) — A powerful and customizable Minecraft bounty system written in Skript – Player & Mob bounties, GUI, tiers, tracking & more! ⭐1
