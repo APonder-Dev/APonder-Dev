@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Anthony Ponder — <a href="https://aponder.dev">APonder.dev</a></h1>
+<h1 align="center">Anthony Ponder</a></h1>
 <p align="center">
   <a href="https://github.com/APonder-Dev">GitHub</a> ·
   <a href="https://www.credly.com/users/aponder.dev/badges#credly">Credly</a> ·
