@@ -73,7 +73,7 @@ Hands-on skills in **networking, system administration, and secure coding** — 
 
 ---
 
-**Created by [APonder.dev](https://aponder.dev)**
+**Created by APonder.dev**
 
 
 
